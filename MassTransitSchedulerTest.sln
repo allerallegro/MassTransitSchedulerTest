@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransitSchedulerTest", "MassTransitSchedulerTest\MassTransitSchedulerTest.csproj", "{2C5D8105-935F-434F-B266-F5989F0FD354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5D8105-935F-434F-B266-F5989F0FD354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5D8105-935F-434F-B266-F5989F0FD354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5D8105-935F-434F-B266-F5989F0FD354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5D8105-935F-434F-B266-F5989F0FD354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC4DBE3-8807-458E-A7D7-1C6E0C46D890}
+	EndGlobalSection
+EndGlobal
